@@ -2,7 +2,7 @@
 - 👀 I’m a PhD in sicence.
 - 🌱 I’m currently learning Swift coding.
 - 💞️ I’m looking to collaborate on my swift and coding projects.
-- 📫 Sent a private message!
+- 📫 Sent a message!
 - Cheers!
 
 <!---
