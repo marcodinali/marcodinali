@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @marcodinali
 - 👀 I’m a PhD in sicence.
-- 🌱 I’m currently learning Swift coding.
-- 💞️ I’m looking to collaborate on my swift and coding projects.
+- 🌱 I’m currently learning coding.
 - 📫 Sent a message!
 - Cheers!
 
