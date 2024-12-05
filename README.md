@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcodinali
+- 👋 Hi, I’m Marco Túlio: @marcodinali
 - 👀 I’m a PhD in sicence.
 - 🌱 I’m currently learning coding.
 - 📫 Sent a message!
